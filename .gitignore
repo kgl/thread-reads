@@ -1,0 +1,4 @@
+work/
+tools/test/node_modules/
+tools/test/package-lock.json
+__pycache__/
